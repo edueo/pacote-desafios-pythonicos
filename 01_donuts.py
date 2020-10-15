@@ -11,7 +11,7 @@ e donuts(23) retorna 'Number of donuts: many'
 
 def donuts(count):
     # +++ SUA SOLUÇÃO +++
-    return
+    return f'Number of donuts: {count}'
 
 
 # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
